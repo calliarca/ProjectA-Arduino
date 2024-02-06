@@ -1,3 +1,7 @@
+# THIS PROJECT IS INSPIRED BY CIRCUIT DIGEST ESP32-SMARTWATCH (LINK INTO THE ARTTCLE BELOW) :  https://circuitdigest.com/microcontroller-projects/diy-smartwatch-using-esp32-final-part
+
+
+
 ### Video Tutorial Connect ESP32 & 240x240 IPS LCD (ST7789 SPI interface) :
 
 https://www.youtube.com/watch?v=7vYIGGlBRkU&ab_channel=anErik
