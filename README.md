@@ -1,22 +1,13 @@
-# THIS PROJECT IS INSPIRED BY CIRCUIT DIGEST ESP32-SMARTWATCH (LINK INTO THE ARTTCLE BELOW) :  https://circuitdigest.com/microcontroller-projects/diy-smartwatch-using-esp32-final-part
+# THIS PROJECT IS INSPIRED BY CIRCUIT DIGEST ESP32-SMARTWATCH (LINK INTO THE ARTTCLE BELOW) : 
+
+### https://circuitdigest.com/microcontroller-projects/diy-smartwatch-using-esp32-final-part
 
 
 
-### Video Tutorial Connect ESP32 & 240x240 IPS LCD (ST7789 SPI interface) :
+## Video Tutorial Connect ESP32 & 240x240 IPS LCD (ST7789 SPI interface) :
 
 https://www.youtube.com/watch?v=7vYIGGlBRkU&ab_channel=anErik
 
-### Artikel Tutorial Connect ESP32 & 240x240 IPS LCD (ST7789 SPI interface) :
-
-https://arduino-er.blogspot.com/2020/07/esp32-13-inch-240x240-ips-lcd-st7789.html
-
-### github library TFT_eSPI :
-
-https://github.com/Bodmer/TFT_eSPI.git
-
-### github SmartWatch Code EXAMPLE (Credit to : Volos Project) :
-
-https://github.com/VolosR/watchESP
 
 ![ESP-WROOM-32-Dev-Module-pinout](https://github.com/calliarca/ProjectA-Arduino/assets/156950237/8b5db928-1146-4b61-9812-66130d637d10)
 
